@@ -1,2 +1,2 @@
 # mini-ecomm
-This Is An API proj 
+This Is An API project  
